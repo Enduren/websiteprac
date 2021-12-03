@@ -1,0 +1,30 @@
+body{
+    color: aliceblue;
+    background-image: url(https://images.unsplash.com/photo-1484278786775-527ac0d0b608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fHNub3d8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60);
+    background-size: contain;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    color: rgb(60, 112, 112);
+    text-align: center;
+    border: 5px solid rgb(41, 85, 136);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    border: 5px solid rgb(50, 71, 121);
+
+}
+table{
+    color: white;
+    text-align: center;
+    border: 5px solid rgb(61, 77, 116);
+
+
+}
+/* * means youre selecting everything*/
+*{
+    text-align: left;
+}
